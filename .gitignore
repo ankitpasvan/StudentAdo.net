@@ -1,0 +1,8 @@
+## Build output - ye kabhi commit nahi honge
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
